@@ -1,0 +1,56 @@
+
+h1 { font-size: 24px; }
+h2 { font-size: 22px; }
+h3 { font-size: 20px; }
+h4 { font-size: 18px; }
+h5 { font-size: 16px; }
+h6 { font-size: 16px; }
+
+html, body {
+  height: 100%;
+  font-size: 16px;
+}
+
+body > .container {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+
+  padding-top: 60px;
+}
+
+body > .container .row {
+  flex: 1 0 auto;
+}
+
+/* Borrowing some pkgdown styles */
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.roles { color: gray;}
+
+/* Sidebar --------------------------*/
+
+#sidebar {
+  margin-top: 30px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 70px;
+}
+#sidebar h2 {
+  font-size: 1.5em;
+  margin-top: 1em;
+}
+
+#sidebar h2:first-child {
+  margin-top: 0;
+}
+
+#sidebar .list-unstyled li {
+  margin-bottom: 0.5em;
+}
+
+

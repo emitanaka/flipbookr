@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559024316824.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3168567636",
+    "id" : "843B4C45",
+    "lastKnownWriteTime" : 1559028552,
+    "last_content_update" : 1559028552028,
+    "path" : "~/Dropbox (Personal)/Website/flipbookr/style.css",
+    "project_path" : "style.css",
+    "properties" : {
+        "cursorPosition" : "10,18",
+        "scrollLine" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

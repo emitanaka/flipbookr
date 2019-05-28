@@ -1,0 +1,14 @@
+name: "flipbookr"
+output_dir: "docs"
+navbar:
+  title: "flipbookr"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: style.css

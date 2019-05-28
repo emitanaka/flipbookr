@@ -1,0 +1,51 @@
+---
+title: "Make a flipbook with R & xaringan"
+---
+
+<div class="row">
+<div class="col-md-9">
+
+## Overview
+
+[FILL]
+
+## Getting started
+
+To get started you can download a minimal example here.
+
+[FILL]
+
+## Galleries 
+
+<div style="position:relative;padding-top:56.25%;">
+<iframe src="examples/checkerboard/checkerboard.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" allowtransparency="true">
+</iframe>
+</div>
+
+## How to contribute
+
+[FILL]
+
+</div>
+<div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
+
+## Links
+
+<ul class="list-unstyled">
+<li>Github</li>
+</ul>
+
+## Developers
+
+<ul class="list-unstyled">
+<li>[Gina Reynolds](https://evangelinereynolds.netlify.com/)<br><small class="roles">Author, maintainer</small></li>
+<li>[Garrick Aden-Buie](https://t.co/coBMsL975j)<br><small class="roles">Author</small></li>
+<li>[Emi Tanaka](https://emitanaka.github.io)<br><small class="roles">Author</small></li>
+
+</ul>
+
+
+
+</div>
+
+</div>
